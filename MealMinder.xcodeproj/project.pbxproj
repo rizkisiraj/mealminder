@@ -14,6 +14,20 @@
 		5321AB862A8B0C7A00670DC6 /* MealMinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5321AB852A8B0C7A00670DC6 /* MealMinderTests.swift */; };
 		5321AB902A8B0C7A00670DC6 /* MealMinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5321AB8F2A8B0C7A00670DC6 /* MealMinderUITests.swift */; };
 		5321AB922A8B0C7A00670DC6 /* MealMinderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5321AB912A8B0C7A00670DC6 /* MealMinderUITestsLaunchTests.swift */; };
+		5321ABA22A8B1BAE00670DC6 /* TrackerPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5321ABA12A8B1BAE00670DC6 /* TrackerPage.swift */; };
+		533A24412A90F09300D150D3 /* CircularSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533A24402A90F09300D150D3 /* CircularSlider.swift */; };
+		5354AE5F2A924A2500C17A83 /* ScheduleEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5354AE5E2A924A2500C17A83 /* ScheduleEditor.swift */; };
+		535EF2B32A8B51F00010C260 /* ScheduleQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535EF2B22A8B51F00010C260 /* ScheduleQuestion.swift */; };
+		5373264E2A9445BD004B940D /* TodayMealList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5373264D2A9445BD004B940D /* TodayMealList.swift */; };
+		538A19CB2A919DAC00A23F2F /* MealDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538A19CA2A919DAC00A23F2F /* MealDetail.swift */; };
+		538E8EBA2A8E4E9F0017F983 /* ScheduleAndGoal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538E8EB92A8E4E9F0017F983 /* ScheduleAndGoal.swift */; };
+		53A7B5632A8F06D500434B30 /* TrackerPage(With Data).swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A7B5622A8F06D500434B30 /* TrackerPage(With Data).swift */; };
+		53C6AEFC2A9105BB006822C4 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C6AEFB2A9105BB006822C4 /* Meal.swift */; };
+		53DF10022A92F387008461A2 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DF10012A92F387008461A2 /* HistoryView.swift */; };
+		53DF10052A92F629008461A2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DF10042A92F629008461A2 /* SettingsView.swift */; };
+		53DF10072A931A52008461A2 /* Countdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DF10062A931A52008461A2 /* Countdown.swift */; };
+		53EA96F22A8BB7DA00F43EDA /* ScheduleRecommendation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EA96F12A8BB7DA00F43EDA /* ScheduleRecommendation.swift */; };
+		53F9A4ED2A921D570063BCD7 /* FoodForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F9A4EC2A921D570063BCD7 /* FoodForm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,20 @@
 		5321AB8B2A8B0C7A00670DC6 /* MealMinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MealMinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5321AB8F2A8B0C7A00670DC6 /* MealMinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealMinderUITests.swift; sourceTree = "<group>"; };
 		5321AB912A8B0C7A00670DC6 /* MealMinderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealMinderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5321ABA12A8B1BAE00670DC6 /* TrackerPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackerPage.swift; sourceTree = "<group>"; };
+		533A24402A90F09300D150D3 /* CircularSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularSlider.swift; sourceTree = "<group>"; };
+		5354AE5E2A924A2500C17A83 /* ScheduleEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleEditor.swift; sourceTree = "<group>"; };
+		535EF2B22A8B51F00010C260 /* ScheduleQuestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleQuestion.swift; sourceTree = "<group>"; };
+		5373264D2A9445BD004B940D /* TodayMealList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayMealList.swift; sourceTree = "<group>"; };
+		538A19CA2A919DAC00A23F2F /* MealDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetail.swift; sourceTree = "<group>"; };
+		538E8EB92A8E4E9F0017F983 /* ScheduleAndGoal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleAndGoal.swift; sourceTree = "<group>"; };
+		53A7B5622A8F06D500434B30 /* TrackerPage(With Data).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TrackerPage(With Data).swift"; sourceTree = "<group>"; };
+		53C6AEFB2A9105BB006822C4 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		53DF10012A92F387008461A2 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		53DF10042A92F629008461A2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		53DF10062A931A52008461A2 /* Countdown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Countdown.swift; sourceTree = "<group>"; };
+		53EA96F12A8BB7DA00F43EDA /* ScheduleRecommendation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleRecommendation.swift; sourceTree = "<group>"; };
+		53F9A4EC2A921D570063BCD7 /* FoodForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodForm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +122,9 @@
 		5321AB732A8B0C7800670DC6 /* MealMinder */ = {
 			isa = PBXGroup;
 			children = (
+				538E8EB82A8E4E700017F983 /* Model */,
+				5321ABA02A8B1B8600670DC6 /* View */,
 				5321AB742A8B0C7800670DC6 /* MealMinderApp.swift */,
-				5321AB762A8B0C7800670DC6 /* ContentView.swift */,
 				5321AB782A8B0C7A00670DC6 /* Assets.xcassets */,
 				5321AB7A2A8B0C7A00670DC6 /* Preview Content */,
 			);
@@ -125,6 +154,67 @@
 				5321AB912A8B0C7A00670DC6 /* MealMinderUITestsLaunchTests.swift */,
 			);
 			path = MealMinderUITests;
+			sourceTree = "<group>";
+		};
+		5321ABA02A8B1B8600670DC6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				53DF10032A92F5C1008461A2 /* Settings */,
+				5321ABA32A8B1C5400670DC6 /* Tracker */,
+				5321AB762A8B0C7800670DC6 /* ContentView.swift */,
+				533A24402A90F09300D150D3 /* CircularSlider.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5321ABA32A8B1C5400670DC6 /* Tracker */ = {
+			isa = PBXGroup;
+			children = (
+				53DF10002A92F371008461A2 /* History */,
+				535EF2B12A8B51CC0010C260 /* ScheduleMaker */,
+				5373264D2A9445BD004B940D /* TodayMealList.swift */,
+				5321ABA12A8B1BAE00670DC6 /* TrackerPage.swift */,
+				53A7B5622A8F06D500434B30 /* TrackerPage(With Data).swift */,
+				538A19CA2A919DAC00A23F2F /* MealDetail.swift */,
+				53F9A4EC2A921D570063BCD7 /* FoodForm.swift */,
+				5354AE5E2A924A2500C17A83 /* ScheduleEditor.swift */,
+				53DF10062A931A52008461A2 /* Countdown.swift */,
+			);
+			path = Tracker;
+			sourceTree = "<group>";
+		};
+		535EF2B12A8B51CC0010C260 /* ScheduleMaker */ = {
+			isa = PBXGroup;
+			children = (
+				535EF2B22A8B51F00010C260 /* ScheduleQuestion.swift */,
+				53EA96F12A8BB7DA00F43EDA /* ScheduleRecommendation.swift */,
+			);
+			path = ScheduleMaker;
+			sourceTree = "<group>";
+		};
+		538E8EB82A8E4E700017F983 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				538E8EB92A8E4E9F0017F983 /* ScheduleAndGoal.swift */,
+				53C6AEFB2A9105BB006822C4 /* Meal.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		53DF10002A92F371008461A2 /* History */ = {
+			isa = PBXGroup;
+			children = (
+				53DF10012A92F387008461A2 /* HistoryView.swift */,
+			);
+			path = History;
+			sourceTree = "<group>";
+		};
+		53DF10032A92F5C1008461A2 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				53DF10042A92F629008461A2 /* SettingsView.swift */,
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +347,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53DF10052A92F629008461A2 /* SettingsView.swift in Sources */,
+				53C6AEFC2A9105BB006822C4 /* Meal.swift in Sources */,
+				5373264E2A9445BD004B940D /* TodayMealList.swift in Sources */,
 				5321AB772A8B0C7800670DC6 /* ContentView.swift in Sources */,
+				5321ABA22A8B1BAE00670DC6 /* TrackerPage.swift in Sources */,
+				535EF2B32A8B51F00010C260 /* ScheduleQuestion.swift in Sources */,
+				53EA96F22A8BB7DA00F43EDA /* ScheduleRecommendation.swift in Sources */,
+				53F9A4ED2A921D570063BCD7 /* FoodForm.swift in Sources */,
 				5321AB752A8B0C7800670DC6 /* MealMinderApp.swift in Sources */,
+				53DF10022A92F387008461A2 /* HistoryView.swift in Sources */,
+				5354AE5F2A924A2500C17A83 /* ScheduleEditor.swift in Sources */,
+				533A24412A90F09300D150D3 /* CircularSlider.swift in Sources */,
+				53DF10072A931A52008461A2 /* Countdown.swift in Sources */,
+				538A19CB2A919DAC00A23F2F /* MealDetail.swift in Sources */,
+				538E8EBA2A8E4E9F0017F983 /* ScheduleAndGoal.swift in Sources */,
+				53A7B5632A8F06D500434B30 /* TrackerPage(With Data).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +521,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MealMinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 5WL5AS853S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -445,6 +550,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MealMinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 5WL5AS853S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
